@@ -1,0 +1,15 @@
+c:\users\dragon_rage\documents\visual studio 2015\Projects\LinkitPhone\LinkitPhone\bin\Debug\LinkitPhone.exe.config
+c:\users\dragon_rage\documents\visual studio 2015\Projects\LinkitPhone\LinkitPhone\bin\Debug\LinkitPhone.exe
+c:\users\dragon_rage\documents\visual studio 2015\Projects\LinkitPhone\LinkitPhone\bin\Debug\LinkitPhone.pdb
+c:\users\dragon_rage\documents\visual studio 2015\Projects\LinkitPhone\LinkitPhone\bin\Debug\MetroFramework.Design.dll
+c:\users\dragon_rage\documents\visual studio 2015\Projects\LinkitPhone\LinkitPhone\bin\Debug\MetroFramework.dll
+c:\users\dragon_rage\documents\visual studio 2015\Projects\LinkitPhone\LinkitPhone\bin\Debug\MetroFramework.Fonts.dll
+c:\users\dragon_rage\documents\visual studio 2015\Projects\LinkitPhone\LinkitPhone\obj\Debug\LinkitPhone.csprojResolveAssemblyReference.cache
+c:\users\dragon_rage\documents\visual studio 2015\Projects\LinkitPhone\LinkitPhone\obj\Debug\LinkitPhone.LinkitPhone.resources
+c:\users\dragon_rage\documents\visual studio 2015\Projects\LinkitPhone\LinkitPhone\obj\Debug\LinkitPhone.Properties.Resources.resources
+c:\users\dragon_rage\documents\visual studio 2015\Projects\LinkitPhone\LinkitPhone\obj\Debug\LinkitPhone.csproj.GenerateResource.Cache
+c:\users\dragon_rage\documents\visual studio 2015\Projects\LinkitPhone\LinkitPhone\obj\Debug\LinkitPhone.exe
+c:\users\dragon_rage\documents\visual studio 2015\Projects\LinkitPhone\LinkitPhone\obj\Debug\LinkitPhone.pdb
+c:\users\dragon_rage\documents\visual studio 2015\Projects\LinkitPhone\LinkitPhone\obj\Debug\LinkitPhone.CallControl.resources
+C:\Users\Dragon_Rage\documents\visual studio 2015\Projects\LinkitPhone\LinkitPhone\obj\Debug\LinkitPhone.MessageControl.resources
+C:\Users\Dragon_Rage\documents\visual studio 2015\Projects\LinkitPhone\LinkitPhone\obj\Debug\LinkitPhone.Calling.resources
